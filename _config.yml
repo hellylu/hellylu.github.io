@@ -1,6 +1,7 @@
 ---
 title: Hellylu.Github.Io
 timezone: Europe/Tallinn
+repository: hellylu/hellylu.github.io
 collections:
   posts:
     title: Posts
