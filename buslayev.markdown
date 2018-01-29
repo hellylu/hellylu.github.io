@@ -3,7 +3,6 @@ title: buslayev
 date: 2018-01-29 18:42:00 +02:00
 ---
 
-
 <p><strong></strong></p>
 <p><strong>Оформление материалов</strong></p>
 <p>Направляется в электронном варианте в формате&nbsp;Microsoft&nbsp;Word&nbsp;(расширение *.doc, *.docx, или *.rtf).</p>
