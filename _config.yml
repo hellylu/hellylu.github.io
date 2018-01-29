@@ -1,7 +1,6 @@
 ---
 title: Hellylu.Github.Io
 timezone: Europe/Tallinn
-repository: hellylu/hellylu.github.io
 collections:
   posts:
     title: Posts
@@ -9,4 +8,5 @@ collections:
   uploads:
     title: Uploads
     output: true
+repository: hellylu/hellylu.github.io
 theme: jekyll-theme-cayman
