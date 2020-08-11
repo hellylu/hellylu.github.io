@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+---
+title: Hellylu.Github.Io
+timezone: Europe/Tallinn
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+repository: hellylu/hellylu.github.io
+theme: jekyll-theme-cayman
