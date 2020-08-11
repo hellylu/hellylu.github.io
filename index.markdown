@@ -11,7 +11,7 @@ date: 2020-08-10 08:14:00 +03:00
 
 [http://moodle.spsu.ru/mod/data/view.php?d=150&rid=12603](http://moodle.spsu.ru/mod/data/view.php?d=150&rid=12603)
 
-**SPIN-код: 6198-0944, AuthorID: 866544**
+**SPIN-код: [6198-0944](https://www.elibrary.ru/author_profile.asp?authorid=866544), AuthorID: [866544](https://www.elibrary.ru/author_items.asp?authorid=866544)**
 
 **[https://elibrary.ru/author_items.asp?authorid=866544](https://elibrary.ru/author_items.asp?authorid=866544)**
 
