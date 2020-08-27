@@ -5,16 +5,7 @@ date: 2020-08-10 08:14:00 +03:00
 
 **Луговская Елена Григорьевна**
 <br>
-<img width="147" height="227" align="right" vspace="10" hspace="10" margin: 0;
-    padding: 15vh 0 0 0;
-}
-#content{
-    border: 5px solid red;
-    height: 70vh;
-    width: 80%;
-    border-radius: 15px;
-    margin: 0 auto
-} src="Lugowska.jpg"/> 
+<img width="147" height="227" align="right" vspace="10" hspace="10" src="Lugowska.jpg"/> 
  
 <br>
 
