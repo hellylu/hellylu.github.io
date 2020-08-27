@@ -5,7 +5,7 @@ date: 2020-08-10 08:14:00 +03:00
 
 **Луговская Елена Григорьевна**
 <br>
-<img width="257" height="397" align="right"  border="2" alt="" src="Lugowska_.jpg"/> 
+<img width="257" height="397" align="right"  border="2" alt="" src="Lugowsk_.jpg"/> 
  <br>
 **Lugovskaya Elena**  **/**   **Lugowska Helena**
 <br>
