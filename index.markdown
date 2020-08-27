@@ -6,25 +6,7 @@ date: 2020-08-10 08:14:00 +03:00
 **Луговская Елена Григорьевна**
 <br>
 <img width="257" height="397" align="right" vspace="10" hspace="10" border="2" alt="" src="Lugowska.jpg"/> 
-<!DOCTYPE html>
-<html>
- <head>
-  <meta charset="utf-8">
-  <title>box-shadow</title>
-  <style>
-   div {
-    width: 100px;
-    height: 100px;
-    box-shadow: 0 0 0 3px red, 
-                0 0 0 6px blue,
-                3px 0 0 6px orange;
-   }
-  </style>
- </head>
- <body>
-  <div></div>
- </body>
-</html> <br>
+ <br>
 **Lugovskaya Elena**  **/**   **Lugowska Helena**
 
 [http://moodle.spsu.ru/mod/data/view.php?d=150&rid=12603](http://moodle.spsu.ru/mod/data/view.php?d=150&rid=12603)
