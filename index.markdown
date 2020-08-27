@@ -8,8 +8,9 @@ date: 2020-08-10 08:14:00 +03:00
 <img width="257" height="397" align="right" vspace="10" hspace="10" border="2" alt="" src="Lugowska.jpg"/> 
  <br>
 **Lugovskaya Elena**  **/**   **Lugowska Helena**
+<br>
 PhD in Philology, Bachelor of Law
-
+<br>
 [http://moodle.spsu.ru/mod/data/view.php?d=150&rid=12603](http://moodle.spsu.ru/mod/data/view.php?d=150&rid=12603)
 
 **SPIN-код: [6198-0944](https://www.elibrary.ru/author_profile.asp?authorid=866544), AuthorID: [866544](https://www.elibrary.ru/author_items.asp?authorid=866544)**
