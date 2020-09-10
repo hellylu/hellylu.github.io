@@ -7,7 +7,7 @@ date: 2020-09-10 19:00:00 +03:00
 
 1. [ВЯ_1](https://youtu.be/RWJZPC_7Fb4)
 
-2. [https://youtu.be/viYUT8dgePY](https://youtu.be/viYUT8dgePY)
+2. [ВЯ_3](https://youtu.be/viYUT8dgePY)
 
 3. [https://youtu.be/5YoHcyPnHMo](https://youtu.be/5YoHcyPnHMo)
 
