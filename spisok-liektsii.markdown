@@ -3,6 +3,7 @@ title: Список Лекций
 date: 2020-09-10 19:00:00 +03:00
 ---
 
+
 # ВЯ_ОЯ
 
 1. [ВЯ_1](https://youtu.be/RWJZPC_7Fb4)
@@ -18,6 +19,7 @@ date: 2020-09-10 19:00:00 +03:00
 6. [ОЯ_4](https://youtu.be/-ya2gNvz8hs)
 
 
+
 # ТРД
 
 1. [маг_ТРД_1](https://youtu.be/KrAh73dt1uw)
@@ -26,9 +28,11 @@ date: 2020-09-10 19:00:00 +03:00
 
 
 
+
 # ТМК
 
 [ТМК_1](https://youtu.be/eYgNZeSKHYU)
+
 
 
 
