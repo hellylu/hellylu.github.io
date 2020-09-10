@@ -26,13 +26,11 @@ date: 2020-09-10 19:00:00 +03:00
 
 2. [https://youtu.be/22etQpO05HQ](https://youtu.be/22etQpO05HQ)
 
-# 
-ТМК
+# ТМК
 
 [https://youtu.be/eYgNZeSKHYU](https://youtu.be/eYgNZeSKHYU)
 
-# 
-КЛ
+# КЛ
 
 [https://youtu.be/esgH6qnXdoY](https://youtu.be/esgH6qnXdoY)
 
