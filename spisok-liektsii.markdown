@@ -9,13 +9,13 @@ date: 2020-09-10 19:00:00 +03:00
 
 2. [ВЯ_3](https://youtu.be/viYUT8dgePY)
 
-3. [https://youtu.be/5YoHcyPnHMo](https://youtu.be/5YoHcyPnHMo)
+3. [ВЯ_4](https://youtu.be/5YoHcyPnHMo)
 
-4. [https://youtu.be/lvQVwc1NqFo](https://youtu.be/lvQVwc1NqFo)
+4. [ОЯ_1](https://youtu.be/lvQVwc1NqFo)
 
-5. [https://youtu.be/PqUvjL10kYk](https://youtu.be/PqUvjL10kYk)
+5. [ОЯ_2](https://youtu.be/PqUvjL10kYk)
 
-6. [https://youtu.be/-ya2gNvz8hs](https://youtu.be/-ya2gNvz8hs)
+6. [ОЯ_4](https://youtu.be/-ya2gNvz8hs)
 
 
 
