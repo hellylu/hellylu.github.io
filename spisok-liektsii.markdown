@@ -17,7 +17,7 @@ date: 2020-09-10 19:00:00 +03:00
 
 6. [https://youtu.be/-ya2gNvz8hs](https://youtu.be/-ya2gNvz8hs)
 
-### 
+
 
 # ТРД
 
@@ -33,4 +33,3 @@ date: 2020-09-10 19:00:00 +03:00
 
 [https://youtu.be/esgH6qnXdoY](https://youtu.be/esgH6qnXdoY)
 
-# 
