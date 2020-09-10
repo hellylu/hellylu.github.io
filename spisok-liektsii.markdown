@@ -3,7 +3,6 @@ title: Список Лекций
 date: 2020-09-10 19:00:00 +03:00
 ---
 
-
 # ВЯ_ОЯ
 
 1. [https://youtu.be/RWJZPC_7Fb4](https://youtu.be/RWJZPC_7Fb4)
