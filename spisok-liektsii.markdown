@@ -20,21 +20,22 @@ date: 2020-09-10 19:00:00 +03:00
 
 # ТРД
 
-1. [https://youtu.be/KrAh73dt1uw](https://youtu.be/KrAh73dt1uw)
+1. [маг_ТРД_1](https://youtu.be/KrAh73dt1uw)
 
-2. [https://youtu.be/22etQpO05HQ](https://youtu.be/22etQpO05HQ)
+2. [маг_ТРД_2](https://youtu.be/22etQpO05HQ)
 
 
 
 # ТМК
 
-[https://youtu.be/eYgNZeSKHYU](https://youtu.be/eYgNZeSKHYU)
+[ТМК_1](https://youtu.be/eYgNZeSKHYU)
 
 
 
 # КЛ
 
-[https://youtu.be/esgH6qnXdoY](https://youtu.be/esgH6qnXdoY)
+[маг_КЛ_2](https://youtu.be/esgH6qnXdoY)
+
 
 
 
