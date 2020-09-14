@@ -34,4 +34,4 @@ PhD in Philology, Bachelor of Law
 
 [https://dlib.rsl.ru/01004271516](https://dlib.rsl.ru/01004271516)
 
-[Список лекций](https://hellylu.github.io/spisok-liektsii)
+# [Список лекций](https://hellylu.github.io/spisok-liektsii)
