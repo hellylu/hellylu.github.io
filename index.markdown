@@ -5,13 +5,12 @@ date: 2020-08-10 08:14:00 +03:00
 
 **Луговская Елена Григорьевна**
 <br>
-<img width="257" height="397" align="right"  border="2" alt="" src="Lugowsk_.jpg"/> 
- <br>
+<img width="257" height="397" align="right"  border="2" alt="" src="Lugowsk_.jpg"/>
+<br>
 **Lugovskaya Elena**  **/**   **Lugowska Helena**
 <br>
 PhD in Philology, Bachelor of Law
 <br>
-
 
 * [http://moodle.spsu.ru/mod/data/view.php?d=150&rid=12603](http://moodle.spsu.ru/mod/data/view.php?d=150&rid=12603)
 
@@ -34,3 +33,5 @@ PhD in Philology, Bachelor of Law
 * **[http://www.dissercat.com/content/komponenty-kontseptosfery-yazykovoi-lichnosti-smerdyakova-i-osobennosti-ee-diskursivnoi-real](http://www.dissercat.com/content/komponenty-kontseptosfery-yazykovoi-lichnosti-smerdyakova-i-osobennosti-ee-diskursivnoi-real)**
 
 [https://dlib.rsl.ru/01004271516](https://dlib.rsl.ru/01004271516)
+
+[Список лекций](https://hellylu.github.io/spisok-liektsii)
