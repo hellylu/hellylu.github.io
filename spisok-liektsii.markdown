@@ -15,6 +15,19 @@ date: 2020-09-10 19:00:00 +03:00
 
 6. # [ТМК](https://www.youtube.com/playlist?list=PLwwXC3tYSHCrvWwuWVrE_-wRc20-O4Tg0)
 
-# 
+7. # [ОТ](https://www.youtube.com/playlist?list=PLwwXC3tYSHCo-m2nHypCXmWIBOZq-lScU)
+ 
+8. # [СНО](https://www.youtube.com/playlist?list=PLwwXC3tYSHCrZocuaidDbH_5e5myo108Z)
+ 
+9. # [ВЯ_ПО](https://www.youtube.com/playlist?list=PLwwXC3tYSHCpkV4lGjDLj7a06qG1sBHx8)
+ 
+10. # [Риторика](https://www.youtube.com/playlist?list=PLwwXC3tYSHCraAr5N4CY7CKp1ocHdvh3H)
+ 
+11. # [zoom](https://www.youtube.com/playlist?list=PLwwXC3tYSHCow74od5DfQ6PyLoUfsFKe_)
+  
+12. # []()
+ 
+13. # []()
+ 
 
-# 
+ 
