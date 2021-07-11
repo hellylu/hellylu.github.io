@@ -3,7 +3,6 @@ title: Список Лекций
 date: 2020-09-10 19:00:00 +03:00
 ---
 
-
 1. # [ОЯ](https://www.youtube.com/playlist?list=PLwwXC3tYSHCqFxxaLLelBNHr54Iywnvd4)
 
 2. # [КЛ](https://www.youtube.com/playlist?list=PLwwXC3tYSHCqIzLz3aS0zXg_SoUr7v9Wo)
