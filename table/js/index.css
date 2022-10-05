@@ -1,0 +1,29 @@
+BODY {
+	FONT-SIZE: 90%;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	letter-spacing: 0.1em;
+}
+CAPTION {
+	FONT-WEIGHT: bold; PADDING-BOTTOM: 5px
+}
+THEAD TH {
+	BACKGROUND: #ddd
+}
+TFOOT TD {
+	BACKGROUND: #ddd
+}
+TR.ruled {
+	BACKGROUND: #9cf
+}
+TABLE {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid; BORDER-COLLAPSE: collapse
+}
+TH {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid; BORDER-COLLAPSE: collapse
+}
+TD {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid; BORDER-COLLAPSE: collapse
+}
+#mytable TR.ruled {
+	BACKGROUND: #333; COLOR: #ccc
+}

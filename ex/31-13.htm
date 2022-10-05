@@ -1,0 +1,680 @@
+<?xml version="1.0"?>
+       <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+       <html xmlns="http://www.w3.org/1999/xhtml"
+             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Vladimir Arbesman."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC:Creator" content="Vladimir Arbesman" />
+<meta name="DC:Creator" content="UNREGISTERED" />
+<meta name="DC:Title" content="31-13" />
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+
+<title>
+31-13
+</title>
+
+<!-- Made with executable version 6.0 Release 4 Build 22 -->
+
+<!-- The following insertion allows you to add your own code directly to this head tag from the configuration screen -->
+
+
+
+<style type="text/css">
+
+
+/* This is the CSS stylesheet used in the exercise. */
+/* Elements in square brackets are replaced by data based on configuration settings when the exercise is built. */
+
+/* BeginCorePageCSS */
+
+/* Made with executable version 6.0 Release 4 Build 22 */
+
+body{
+	font-family: Arial,sans-serif;
+	background-color: #C0C0C0;
+	color: #000000;
+ 
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size: small;
+}
+
+p{
+	text-align: left;
+	margin: 0px;
+	font-size: 100%;
+}
+
+table,div,span,td{
+	font-size: 100%;
+	color: #000000;
+}
+
+div.Titles{
+	padding: 0.5em;;
+	text-align: center;
+	color: #000000;
+}
+
+button{
+	font-family: Arial,sans-serif;
+	font-size: 100%;
+	display: inline;
+}
+
+.ExerciseTitle{
+	font-size: 140%;
+	color: #000000;
+}
+
+.ExerciseSubtitle{
+	font-size: 120%;
+	color: #000000;
+}
+
+div.StdDiv{
+	background-color: #F0F0F0;
+	text-align: center;
+	font-size: 100%;
+	color: #000000;
+	padding: 0.5em;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #000000;
+	margin-bottom: 1px;
+}
+
+/* EndCorePageCSS */
+
+.RTLText{
+	text-align: right;
+	font-size: 150%;
+	direction: rtl;
+	font-family: "Simplified Arabic", "Traditional Arabic", "Times New Roman", Arial,sans-serif; 
+}
+
+.CentredRTLText{
+	text-align: center;
+	font-size: 150%;
+	direction: rtl;
+	font-family: "Simplified Arabic", "Traditional Arabic", "Times New Roman", Arial,sans-serif; 
+}
+
+button p.RTLText{
+	text-align: center;
+}
+
+.RTLGapBox{
+	text-align: right;
+	font-size: 150%;
+	direction: rtl;
+	font-family: "Times New Roman", Arial,sans-serif;
+}
+
+.Guess{
+	font-weight: bold;
+}
+
+.CorrectAnswer{
+	font-weight: bold;
+}
+
+div#Timer{
+	padding: 0.25em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: #000000;
+}
+
+span#TimerText{
+	padding: 0.25em;
+	border-width: 1px;
+	border-style: solid;
+	font-weight: bold;
+	display: none;
+	color: #000000;
+}
+
+span.Instructions{
+
+}
+
+div.ExerciseText{
+
+}
+
+.FeedbackText, .FeedbackText span.CorrectAnswer, .FeedbackText span.Guess, .FeedbackText span.Answer{
+	color: #000000;
+}
+
+.LeftItem{
+	font-size: 100%;
+	color: #000000;
+	text-align: left;
+}
+
+.RightItem{
+	font-weight: bold;
+	font-size: 100%;
+	color: #000000;
+}
+
+span.CorrectMark{
+
+}
+
+input, textarea{
+	font-family: Arial,sans-serif;
+	font-size: 120%;
+}
+
+select{
+	font-size: 100%;
+}
+
+div.Feedback {
+	background-color: #C0C0C0;
+	left: 33%;
+	width: 34%;
+	top: 33%;
+	z-index: 1;
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px;
+	text-align: center;
+	color: #000000;
+	position: absolute;
+	display: none;
+	font-size: 100%;
+}
+
+
+
+
+div.ExerciseDiv{
+	color: #000000;
+}
+
+/* JMatch flashcard styles */
+table.FlashcardTable{
+	background-color: transparent;
+	color: #000000;
+	border-color: #000000;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	width: 90%;
+	position: relative;
+	text-align: center;
+	padding: 0px;
+}
+
+table.FlashcardTable tr{
+	border-style: none;
+	margin: 0px;
+	padding: 0px;
+	background-color: #F0F0F0;
+}
+
+table.FlashcardTable td.Showing{
+	font-size: 140%;
+	text-align: center;
+	width: 50%;
+	display: table-cell;
+	padding: 2em;
+	margin: 0px;
+	border-style: solid;
+	border-width: 1px;
+	color: #000000;
+	background-color: #F0F0F0;
+}
+
+table.FlashcardTable td.Hidden{
+	display: none;
+}
+
+/* JMix styles */
+div#SegmentDiv{
+	margin-top: 2em;
+	margin-bottom: 2em;
+	text-align: center;
+}
+
+a.ExSegment{
+	font-size: 120%;
+	font-weight: bold;
+	text-decoration: none;
+	color: #000000;
+}
+
+span.RemainingWordList{
+	font-style: italic;
+}
+
+div.DropLine {
+	position: absolute;
+	text-align: center;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	width: 80%;
+}
+
+/* JCloze styles */
+
+.ClozeWordList{
+	text-align: center;
+	font-weight: bold;
+}
+
+div.ClozeBody{
+	text-align: left;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	line-height: 2.0
+}
+
+span.GapSpan{
+	font-weight: bold;
+}
+
+/* JCross styles */
+
+table.CrosswordGrid{
+	margin: auto auto 1em auto;
+	border-collapse: collapse;
+	padding: 0px;
+	background-color: #000000;
+}
+
+table.CrosswordGrid tbody tr td{
+	width: 1.5em;
+	height: 1.5em;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 140%;
+	padding: 1px;
+	margin: 0px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	color: #000000;
+}
+
+table.CrosswordGrid span{
+	color: #000000;
+}
+
+table.CrosswordGrid td.BlankCell{
+	background-color: #000000;
+	color: #000000;
+}
+
+table.CrosswordGrid td.LetterOnlyCell{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	color: #000000;
+	font-weight: bold;
+}
+
+table.CrosswordGrid td.NumLetterCell{
+	text-align: left;
+	vertical-align: top;
+	background-color: #ffffff;
+	color: #000000;
+	padding: 1px;
+	font-weight: bold;
+}
+
+.NumLetterCellText{
+	cursor: pointer;
+	color: #000000;
+}
+
+.GridNum{
+	vertical-align: super;
+	font-size: 66%;
+	font-weight: bold;
+	text-decoration: none;
+	color: #000000;
+}
+
+.GridNum:hover, .GridNum:visited{
+	color: #000000;
+}
+
+table#Clues{
+	margin: auto;
+	vertical-align: top;
+}
+
+table#Clues td{
+	vertical-align: top;
+}
+
+table.ClueList{
+  margin: auto;
+}
+
+td.ClueNum{
+	text-align: right;
+	font-weight: bold;
+	vertical-align: top;
+}
+
+td.Clue{
+	text-align: left;
+}
+
+div#ClueEntry{
+	text-align: left;
+	margin-bottom: 1em;
+}
+
+/* Keypad styles */
+
+div.Keypad{
+	text-align: center;
+	display: none; /* initially hidden, shown if needed */
+}
+
+div.Keypad button{
+	font-family: Arial,sans-serif;
+	font-size: 120%;
+	background-color: #ffffff;
+	color: #000000;
+	width: 2em;
+}
+
+/* JQuiz styles */
+
+div.QuestionNavigation{
+	text-align: center;
+}
+
+.QNum{
+	margin: 0em 1em 0.5em 1em;
+	font-weight: bold;
+	vertical-align: middle;
+}
+
+textarea{
+	font-family: Arial,sans-serif;
+}
+
+.QuestionText{
+
+}
+
+.Answer{
+	font-size: 120%;
+	letter-spacing: 0.1em;
+}
+
+.PartialAnswer{
+	font-size: 120%;
+	letter-spacing: 0.1em;
+	color: #000000;
+}
+
+.Highlight{
+	color: #000000;
+	background-color: #ffff00;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+ol.QuizQuestions{
+	text-align: left;
+	list-style-type: none;
+}
+
+li.QuizQuestion{
+	padding: 1em;
+	border-style: solid;
+	border-width: 0px 0px 1px 0px;
+}
+
+ol.MCAnswers{
+	text-align: left;
+	list-style-type: upper-alpha;
+	padding: 1em;
+}
+
+ol.MCAnswers li{
+	margin-bottom: 1em;
+}
+
+ol.MSelAnswers{
+	text-align: left;
+	list-style-type: lower-alpha;
+	padding: 1em;
+}
+
+div.ShortAnswer{
+	padding: 1em;
+}
+
+.FuncButton {
+	text-align: center;
+	border-style: solid;
+
+	border-left-color: #f7f7f7;
+	border-top-color: #f7f7f7;
+	border-right-color: #787878;
+	border-bottom-color: #787878;
+	color: #000000;
+	background-color: #F0F0F0;
+
+	border-width: 2px;
+	padding: 3px 6px 3px 6px;
+	cursor: pointer;
+}
+
+.FuncButtonUp {
+	color: #F0F0F0;
+	text-align: center;
+	border-style: solid;
+
+	border-left-color: #f7f7f7;
+	border-top-color: #f7f7f7;
+	border-right-color: #787878;
+	border-bottom-color: #787878;
+
+	background-color: #000000;
+	color: #F0F0F0;
+	border-width: 2px;
+	padding: 3px 6px 3px 6px;
+	cursor: pointer;
+}
+
+.FuncButtonDown {
+	color: #F0F0F0;
+	text-align: center;
+	border-style: solid;
+
+	border-left-color: #787878;
+	border-top-color: #787878;
+	border-right-color: #f7f7f7;
+	border-bottom-color: #f7f7f7;
+	background-color: #000000;
+	color: #F0F0F0;
+
+	border-width: 2px;
+	padding: 3px 6px 3px 6px;
+	cursor: pointer;
+}
+
+/*BeginNavBarStyle*/
+
+div.NavButtonBar{
+	background-color: #000000;
+	text-align: center;
+	margin: 2px 0px 2px 0px;
+	clear: both;
+	font-size: 100%;
+}
+
+.NavButton {
+	border-style: solid;
+	
+	border-left-color: #7f7f7f;
+	border-top-color: #7f7f7f;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	background-color: #000000;
+	color: #ffffff;
+
+	border-width: 2px;
+	cursor: pointer;	
+}
+
+.NavButtonUp {
+	border-style: solid;
+
+	border-left-color: #7f7f7f;
+	border-top-color: #7f7f7f;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	color: #000000;
+	background-color: #ffffff;
+
+	border-width: 2px;
+	cursor: pointer;	
+}
+
+.NavButtonDown {
+	border-style: solid;
+
+	border-left-color: #000000;
+	border-top-color: #000000;
+	border-right-color: #7f7f7f;
+	border-bottom-color: #7f7f7f;
+	color: #000000;
+	background-color: #ffffff;
+
+	border-width: 2px;
+	cursor: pointer;	
+}
+
+/*EndNavBarStyle*/
+
+a{
+	color: #0000FF;
+}
+
+a:visited{
+	color: #0000CC;
+}
+
+a:hover{
+	color: #0000FF;
+}
+
+div.CardStyle {
+	position: absolute;
+	font-family: Arial,sans-serif;
+	font-size: 100%;
+	padding: 5px;
+	border-style: solid;
+	border-width: 1px;
+	color: #000000;
+	background-color: #F0F0F0;
+	left: -50px;
+	top: -50px;
+	overflow: visible;
+}
+
+.rtl{
+	text-align: right;
+	font-size: 140%;
+}
+
+
+</style>
+
+
+
+
+<script src="31-13.js" type="text/javascript"></script></head>
+
+<body onload="StartUp()" id="TheBody">
+
+<!-- BeginTopNavButtons -->
+
+
+
+<!-- EndTopNavButtons -->
+
+<div class="Titles">
+	<h2 class="ExerciseTitle">31-13</h2>
+
+	<h3 class="ExerciseSubtitle"><P align=left>&#x041D;&#x0430;&#x0437;&#x043E;&#x0432;&#x0438;&#x0442;&#x0435; &#x0436;&#x0438;&#x0442;&#x0435;&#x043B;&#x0435;&#x0439; &#x043F;&#x0435;&#x0440;&#x0435;&#x0447;&#x0438;&#x0441;&#x043B;&#x0435;&#x043D;&#x043D;&#x044B;&#x0445; &#x043D;&#x0438;&#x0436;&#x0435; &#x0441;&#x0442;&#x0440;&#x0430;&#x043D; (&#x0444;&#x043E;&#x0440;&#x043C;&#x044B; &#x0435;&#x0434;&#x0438;&#x043D;&#x0441;&#x0442;&#x0432;&#x0435;&#x043D;&#x043D;&#x043E;&#x0433;&#x043E; &#x0447;&#x0438;&#x0441;&#x043B;&#x0430; (1)&#x043C;&#x0443;&#x0436;&#x0441;&#x043A;&#x043E;&#x0433;&#x043E; &#x0438; (2)&#x0436;&#x0435;&#x043D;&#x0441;&#x043A;&#x043E;&#x0433;&#x043E; &#x0440;&#x043E;&#x0434;&#x0430; &#x0438; &#x0444;&#x043E;&#x0440;&#x043C;&#x044B; (3)&#x043C;&#x043D;&#x043E;&#x0436;&#x0435;&#x0441;&#x0442;&#x0432;&#x0435;&#x043D;&#x043D;&#x043E;&#x0433;&#x043E; &#x0447;&#x0438;&#x0441;&#x043B;&#x0430;; &#x043F;&#x0440;&#x0438; &#x043E;&#x0442;&#x0441;&#x0443;&#x0442;&#x0441;&#x0442;&#x0432;&#x0438;&#x0438; &#x0441;&#x043E;&#x043E;&#x0442;&#x0432;&#x0435;&#x0442;&#x0441;&#x0442;&#x0432;&#x0443;&#x044E;&#x0449;&#x0435;&#x0439; &#x0444;&#x043E;&#x0440;&#x043C;&#x044B; &#x2013; &#x0432;&#x0432;&#x0435;&#x0434;&#x0438;&#x0442;&#x0435; &#x043F;&#x0440;&#x043E;&#x0447;&#x0435;&#x0440;&#x043A; (&#x0437;&#x043D;&#x0430;&#x043A; &#x043C;&#x0438;&#x043D;&#x0443;&#x0441; &#x00AB;-&#x00BB; &#x0431;&#x0435;&#x0437; &#x043A;&#x0430;&#x0432;&#x044B;&#x0447;&#x0435;&#x043A;). &#x041A;&#x0430;&#x043A;&#x0438;&#x0435; &#x0441;&#x043B;&#x043E;&#x0432;&#x0430;&#x0440;&#x0438; &#x043F;&#x043E;&#x043C;&#x043E;&#x0433;&#x0443;&#x0442; &#x0432;&#x0430;&#x043C; &#x0432; &#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x0435;? &#x041E;&#x0431;&#x0440;&#x0430;&#x0442;&#x0438;&#x0442;&#x0435; &#x0432;&#x043D;&#x0438;&#x043C;&#x0430;&#x043D;&#x0438;&#x0435; &#x043D;&#x0430; &#x043F;&#x0440;&#x0430;&#x0432;&#x0438;&#x043B;&#x044C;&#x043D;&#x043E;&#x0441;&#x0442;&#x044C; &#x043D;&#x0430;&#x043F;&#x0438;&#x0441;&#x0430;&#x043D;&#x0438;&#x044F;. <br />&#x041E;&#x0431;&#x0440;&#x0430;&#x0437;&#x0435;&#x0446;: &#x0420;&#x043E;&#x0441;&#x0441;&#x0438;&#x044F; &#x2013; (1)&#x0440;&#x043E;&#x0441;&#x0441;&#x0438;&#x044F;&#x043D;&#x0438;&#x043D;, (2)&#x0440;&#x043E;&#x0441;&#x0441;&#x0438;&#x044F;&#x043D;&#x043A;&#x0430;, (3)&#x0440;&#x043E;&#x0441;&#x0441;&#x0438;&#x044F;&#x043D;&#x0435;<br /></h3>
+
+
+
+</div>
+
+<div id="InstructionsDiv" class="StdDiv">
+	<p id="Instructions"><br /> &#x041F;&#x043E;&#x0441;&#x043B;&#x0435; &#x0432;&#x044B;&#x043F;&#x043E;&#x043B;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F; &#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x044B; &#x043D;&#x0430;&#x0436;&#x043C;&#x0438;&#x0442;&#x0435; &#x043A;&#x043D;&#x043E;&#x043F;&#x043A;&#x0443; &#x00AB;&#x0413;&#x043E;&#x0442;&#x043E;&#x0432;&#x043E;&#x00BB;.</p>
+</div>
+
+
+
+
+
+<div id="MainDiv" class="StdDiv">
+
+<!-- These top buttons hidden; reveal if required -->
+<!--
+<button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;&#x0413;&#x043E;&#x0442;&#x043E;&#x0432;&#x043E;&nbsp;</button>
+
+
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;&#x041F;&#x043E;&#x0434;c&#x043A;&#x0430;&#x0437;&#x0430;&#x0442;&#x044C;?&nbsp;</button>
+
+
+ -->
+ 
+<div id="ClozeDiv">
+<form id="Cloze" method="post" action="" onsubmit="return false;">
+<div class="ClozeBody">
+&#x0410;&#x0432;&#x0441;&#x0442;&#x0440;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0410;&#x0440;&#x0433;&#x0435;&#x043D;&#x0442;&#x0438;&#x043D;&#x0430; -	(1)<span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0410;&#x0440;&#x043C;&#x0435;&#x043D;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0410;&#x0444;&#x0433;&#x0430;&#x043D;&#x0438;&#x0441;&#x0442;&#x0430;&#x043D; -	(1)<span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0411;&#x0435;&#x043B;&#x0430;&#x0440;&#x0443;&#x0441;&#x044C; -	(1)<span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0411;&#x0435;&#x043B;&#x044C;&#x0433;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan16"><input type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan17"><input type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0411;&#x0438;&#x0440;&#x043C;&#x0430; -	(1)<span class="GapSpan" id="GapSpan18"><input type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan19"><input type="text" id="Gap19" onfocus="TrackFocus(19)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan20"><input type="text" id="Gap20" onfocus="TrackFocus(20)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0413;&#x0432;&#x0438;&#x043D;&#x0435;&#x044F; -	(1)<span class="GapSpan" id="GapSpan21"><input type="text" id="Gap21" onfocus="TrackFocus(21)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan22"><input type="text" id="Gap22" onfocus="TrackFocus(22)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan23"><input type="text" id="Gap23" onfocus="TrackFocus(23)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0413;&#x0435;&#x0440;&#x043C;&#x0430;&#x043D;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan24"><input type="text" id="Gap24" onfocus="TrackFocus(24)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan25"><input type="text" id="Gap25" onfocus="TrackFocus(25)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan26"><input type="text" id="Gap26" onfocus="TrackFocus(26)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0413;&#x0440;&#x0435;&#x0446;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan27"><input type="text" id="Gap27" onfocus="TrackFocus(27)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan28"><input type="text" id="Gap28" onfocus="TrackFocus(28)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan29"><input type="text" id="Gap29" onfocus="TrackFocus(29)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0413;&#x0440;&#x0443;&#x0437;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan30"><input type="text" id="Gap30" onfocus="TrackFocus(30)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan31"><input type="text" id="Gap31" onfocus="TrackFocus(31)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan32"><input type="text" id="Gap32" onfocus="TrackFocus(32)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0414;&#x0430;&#x043D;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan33"><input type="text" id="Gap33" onfocus="TrackFocus(33)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan34"><input type="text" id="Gap34" onfocus="TrackFocus(34)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan35"><input type="text" id="Gap35" onfocus="TrackFocus(35)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0418;&#x0437;&#x0440;&#x0430;&#x0438;&#x043B;&#x044C; -	(1)<span class="GapSpan" id="GapSpan36"><input type="text" id="Gap36" onfocus="TrackFocus(36)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan37"><input type="text" id="Gap37" onfocus="TrackFocus(37)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan38"><input type="text" id="Gap38" onfocus="TrackFocus(38)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0418;&#x043D;&#x0434;&#x0438;&#x044F; -	(1)&#x0438;&#x043D;&#x0434;&#x0438;&#x0435;&#x0446;, (2)<span class="GapSpan" id="GapSpan39"><input type="text" id="Gap39" onfocus="TrackFocus(39)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan40"><input type="text" id="Gap40" onfocus="TrackFocus(40)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>; <br />(1)&#x0438;&#x043D;&#x0434;&#x0443;&#x0441;, (2)<span class="GapSpan" id="GapSpan41"><input type="text" id="Gap41" onfocus="TrackFocus(41)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan42"><input type="text" id="Gap42" onfocus="TrackFocus(42)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x041A;&#x0430;&#x0437;&#x0430;&#x0445;&#x0441;&#x0442;&#x0430;&#x043D; -	(1)<span class="GapSpan" id="GapSpan43"><input type="text" id="Gap43" onfocus="TrackFocus(43)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan44"><input type="text" id="Gap44" onfocus="TrackFocus(44)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan45"><input type="text" id="Gap45" onfocus="TrackFocus(45)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x041A;&#x0435;&#x043D;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan46"><input type="text" id="Gap46" onfocus="TrackFocus(46)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan47"><input type="text" id="Gap47" onfocus="TrackFocus(47)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan48"><input type="text" id="Gap48" onfocus="TrackFocus(48)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x041B;&#x0438;&#x0442;&#x0432;&#x0430; -	(1)<span class="GapSpan" id="GapSpan49"><input type="text" id="Gap49" onfocus="TrackFocus(49)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan50"><input type="text" id="Gap50" onfocus="TrackFocus(50)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan51"><input type="text" id="Gap51" onfocus="TrackFocus(51)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x041C;&#x043E;&#x043B;&#x0434;&#x043E;&#x0432;&#x0430; -	(1)<span class="GapSpan" id="GapSpan52"><input type="text" id="Gap52" onfocus="TrackFocus(52)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan53"><input type="text" id="Gap53" onfocus="TrackFocus(53)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan54"><input type="text" id="Gap54" onfocus="TrackFocus(54)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x041C;&#x043E;&#x043D;&#x0430;&#x043A;&#x043E; -	(1)&#x043C;&#x043E;&#x043D;&#x0430;&#x043A;&#x0435;&#x0446;, (2)<span class="GapSpan" id="GapSpan55"><input type="text" id="Gap55" onfocus="TrackFocus(55)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> , (3)<span class="GapSpan" id="GapSpan56"><input type="text" id="Gap56" onfocus="TrackFocus(56)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>; <br />(1)&#x043C;&#x043E;&#x043D;&#x0435;&#x0433;&#x0430;&#x0441;&#x043A;, (2)<span class="GapSpan" id="GapSpan57"><input type="text" id="Gap57" onfocus="TrackFocus(57)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan58"><input type="text" id="Gap58" onfocus="TrackFocus(58)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x041C;&#x043E;&#x043D;&#x0433;&#x043E;&#x043B;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan59"><input type="text" id="Gap59" onfocus="TrackFocus(59)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan60"><input type="text" id="Gap60" onfocus="TrackFocus(60)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan61"><input type="text" id="Gap61" onfocus="TrackFocus(61)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x041D;&#x0435;&#x043F;&#x0430;&#x043B; -	(1)<span class="GapSpan" id="GapSpan62"><input type="text" id="Gap62" onfocus="TrackFocus(62)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan63"><input type="text" id="Gap63" onfocus="TrackFocus(63)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan64"><input type="text" id="Gap64" onfocus="TrackFocus(64)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x041F;&#x0435;&#x0440;&#x0443; -	(1)<span class="GapSpan" id="GapSpan65"><input type="text" id="Gap65" onfocus="TrackFocus(65)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan66"><input type="text" id="Gap66" onfocus="TrackFocus(66)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan67"><input type="text" id="Gap67" onfocus="TrackFocus(67)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x041F;&#x043E;&#x043B;&#x044C;&#x0448;&#x0430; -	(1)<span class="GapSpan" id="GapSpan68"><input type="text" id="Gap68" onfocus="TrackFocus(68)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan69"><input type="text" id="Gap69" onfocus="TrackFocus(69)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan70"><input type="text" id="Gap70" onfocus="TrackFocus(70)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0421;&#x0438;&#x043D;&#x0433;&#x0430;&#x043F;&#x0443;&#x0440; -	(1)<span class="GapSpan" id="GapSpan71"><input type="text" id="Gap71" onfocus="TrackFocus(71)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan72"><input type="text" id="Gap72" onfocus="TrackFocus(72)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan73"><input type="text" id="Gap73" onfocus="TrackFocus(73)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0422;&#x0443;&#x0440;&#x0446;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan74"><input type="text" id="Gap74" onfocus="TrackFocus(74)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan75"><input type="text" id="Gap75" onfocus="TrackFocus(75)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan76"><input type="text" id="Gap76" onfocus="TrackFocus(76)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0424;&#x0438;&#x043D;&#x043B;&#x044F;&#x043D;&#x0434;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan77"><input type="text" id="Gap77" onfocus="TrackFocus(77)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan78"><input type="text" id="Gap78" onfocus="TrackFocus(78)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan79"><input type="text" id="Gap79" onfocus="TrackFocus(79)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0427;&#x0438;&#x043B;&#x0438; -	(1)<span class="GapSpan" id="GapSpan80"><input type="text" id="Gap80" onfocus="TrackFocus(80)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan81"><input type="text" id="Gap81" onfocus="TrackFocus(81)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan82"><input type="text" id="Gap82" onfocus="TrackFocus(82)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x0428;&#x0432;&#x0435;&#x0446;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan83"><input type="text" id="Gap83" onfocus="TrackFocus(83)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan84"><input type="text" id="Gap84" onfocus="TrackFocus(84)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan85"><input type="text" id="Gap85" onfocus="TrackFocus(85)" onblur="LeaveGap()" class="GapBox" size="16"></input></span> <br />&#x042F;&#x043F;&#x043E;&#x043D;&#x0438;&#x044F; -	(1)<span class="GapSpan" id="GapSpan86"><input type="text" id="Gap86" onfocus="TrackFocus(86)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (2)<span class="GapSpan" id="GapSpan87"><input type="text" id="Gap87" onfocus="TrackFocus(87)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>, (3)<span class="GapSpan" id="GapSpan88"><input type="text" id="Gap88" onfocus="TrackFocus(88)" onblur="LeaveGap()" class="GapBox" size="16"></input></span>
+</div>
+</form>
+</div>
+
+
+
+<button id="CheckButton2" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;&#x0413;&#x043E;&#x0442;&#x043E;&#x0432;&#x043E;&nbsp;</button>
+
+
+<button class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="ShowHint()">&nbsp;&#x041F;&#x043E;&#x0434;c&#x043A;&#x0430;&#x0437;&#x0430;&#x0442;&#x044C;?&nbsp;</button>
+
+
+</div>
+
+
+
+<div class="Feedback" id="FeedbackDiv">
+<div class="FeedbackText" id="FeedbackContent"></div>
+<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+</div>
+
+<!-- BeginBottomNavButtons -->
+
+
+
+<!-- EndBottomNavButtons -->
+
+<!-- BeginSubmissionForm -->
+
+<!-- EndSubmissionForm -->
+
+</body>
+
+</html>
