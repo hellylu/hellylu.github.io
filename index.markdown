@@ -36,4 +36,4 @@ PhD in Philology, Bachelor of Law
 
 # [Список лекций](https://hellylu.github.io/spisok-liektsii)
 
-# [Упражнения](https://hellylu.github.io/ex/index.html)
+# [Упражнения](https://hellylu.github.io/ex/index.html),[Таблицы](https://hellylu.github.io/table/index.html)
