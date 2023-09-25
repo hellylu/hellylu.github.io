@@ -23,7 +23,7 @@ PhD in Philology, Bachelor of Law
 * [https://dlib.rsl.ru/01004271516](https://dlib.rsl.ru/01004271516)
 * **[http://www.dissercat.com/content/komponenty-kontseptosfery-yazykovoi-lichnosti-smerdyakova-i-osobennosti-ee-diskursivnoi-real](http://www.dissercat.com/content/komponenty-kontseptosfery-yazykovoi-lichnosti-smerdyakova-i-osobennosti-ee-diskursivnoi-real)**
 
-* **[https://stihi.ru/avtor/hellylu]**
+* **[https://stihi.ru/avtor/hellylu](https://stihi.ru/avtor/hellylu)**
 
 * **[https://lingualismconference.wordpress.com/]**
 
