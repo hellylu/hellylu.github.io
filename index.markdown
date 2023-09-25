@@ -25,6 +25,6 @@ PhD in Philology, Bachelor of Law
 
 * **[https://stihi.ru/avtor/hellylu](https://stihi.ru/avtor/hellylu)**
 
-* **[https://lingualismconference.wordpress.com/]**
+* **[https://lingualismconference.wordpress.com/](https://lingualismconference.wordpress.com/)**
 
 
