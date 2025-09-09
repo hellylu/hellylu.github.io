@@ -5,11 +5,13 @@ date: 2020-08-10 08:14:00 +03:00
 
 **Луговская Елена Григорьевна**
 <br>
-<img width="257" height="397" align="right"  border="2" alt="" src="Lugowsk_.jpg"/>
+<img width="257" height="397" align="right"  border="2" alt="photo" src="Lugowsk_.jpg"/>
 <br>
 **Lugovskaya Elena**  **/**   **Lugowska Helena**
 <br>
 PhD in Philology, Bachelor of Law
+<br>
+<img  align="right"  border="1" alt="elibrary" src="https://elibrary.ru/author_counter.aspx?id=866544">
 <br>
 
 * **SPIN-код: [6198-0944](https://www.elibrary.ru/author_profile.asp?authorid=866544), AuthorID: [866544](https://www.elibrary.ru/author_items.asp?authorid=866544)**
