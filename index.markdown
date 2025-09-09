@@ -29,7 +29,7 @@ PhD in Philology, Bachelor of Law
 
 
 <br>
-  <a href="https://elibrary.ru/author_profile.asp?authorid=866544"
+  <a href="https://elibrary.ru/author_profile.asp?authorid=866544">
     <img  align="left"  border="1" alt="elibrary" src="https://elibrary.ru/author_counter.aspx?id=866544">
   </a>
 <br>
