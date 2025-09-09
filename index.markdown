@@ -11,8 +11,6 @@ date: 2020-08-10 08:14:00 +03:00
 <br>
 PhD in Philology, Bachelor of Law
 <br>
-<img  align="left"  border="1" alt="elibrary" src="https://elibrary.ru/author_counter.aspx?id=866544">
-<br>
 
 * **SPIN-код: [6198-0944](https://www.elibrary.ru/author_profile.asp?authorid=866544), AuthorID: [866544](https://www.elibrary.ru/author_items.asp?authorid=866544)**
 * Web of Science ResearcherID [C-7404-2018](https://publons.com/researcher/C-7404-2018/ "Copy and share this profile's URL")
@@ -30,3 +28,6 @@ PhD in Philology, Bachelor of Law
 * **[https://lingualismconference.wordpress.com/](https://lingualismconference.wordpress.com/)**
 
 
+<br>
+<img  align="left"  border="1" alt="elibrary" src="https://elibrary.ru/author_counter.aspx?id=866544">
+<br>
